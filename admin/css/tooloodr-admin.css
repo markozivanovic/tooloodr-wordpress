@@ -1,0 +1,10 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ h2.tooloo-heading .dashicons.dashicons-edit {
+    height: 30px;
+    width: 30px;
+    font-size: 30px;
+}
